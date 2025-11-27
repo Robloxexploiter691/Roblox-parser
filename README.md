@@ -1,3 +1,4 @@
+credits to depthso
 i made this myself
 if you dont like it go use something else i dont care
 i put effort into this 
@@ -53,4 +54,5 @@ it works in studio too you know
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/depthso/Roblox-parser/refs/heads/main/dist/Main.luau"))()
+
 ```
